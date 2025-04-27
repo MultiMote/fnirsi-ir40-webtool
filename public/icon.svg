@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 135.47 135.47" xmlns="http://www.w3.org/2000/svg">
+ <path d="m35.746 40.386h63.975c8.712 0 15.684 7.0137 15.726 15.726l0.37908 79.355h-95.931l0.12636-79.355c0.01387-8.712 7.0136-15.726 15.726-15.726z" fill="#4d4d4d" stroke-linecap="round" stroke-width=".7" style="paint-order:markers fill stroke"/>
+ <rect x="33.363" y="57.6" width="68.993" height="60.653" rx="4.1101" ry="5.2717" fill="#333" style="paint-order:markers fill stroke"/>
+ <path d="m86.936 40.386v-40.386" fill="none" stroke="#fe0000" stroke-width="5.4" style="paint-order:markers fill stroke"/>
+</svg>
